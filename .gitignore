@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Compiled source #
 ###################
 *.com
@@ -73,3 +74,11 @@ atlassian-ide-plugin.xml
 .nbattrs
 *.orig
 
+=======
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+>>>>>>> dcf90be1330ba964d94c278d2d49584e514f501a
